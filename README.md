@@ -13,4 +13,4 @@ Regarding the Switches between teleoperation and autonomous mode, in the folder 
 - HardSwitchMaster and HardSwitchSlave: Experiment of switch from autonomous to teleoperation mode, where no smoothing actions and no delays are applied.
 - SoftSwitchMaster and SoftSwitchSlave: Experiment of switch from autonomous to teleoperation mode, where smoothinng actions and delays are applied.
 
-In the folder "Final Presentation" you can find the powerpoint presentation of my thesis.
+In the folder "Final Presentation" you can find the powerpoint presentation of my thesis. Unfortunately the code and the thesis cannot be published.
